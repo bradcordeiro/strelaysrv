@@ -8,13 +8,13 @@ A minimal Syncthing Relay Server built on top of Alpine Linux.
 
 Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
 
-> [https://syncthing.net](https://syncthing.net)
+> https://syncthing.net
 
 # What is Syncthing Relay Server?
 
- Syncthing relies on a network of community-contributed relay servers. Anyone can run a relay server, and it will automatically join the relay pool and be available to Syncthing users. The current list of relays can be found at [https://relays.syncthing.net/].
+ Syncthing relies on a network of community-contributed relay servers. Anyone can run a relay server, and it will automatically join the relay pool and be available to Syncthing users. The current list of relays can be found at https://relays.syncthing.net/.
 
-> [https://docs.syncthing.net/users/strelaysrv.html]
+> https://docs.syncthing.net/users/strelaysrv.html
 
 # How to use this image
 
